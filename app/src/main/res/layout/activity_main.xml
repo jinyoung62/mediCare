@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@color/bg_main"
+    android:background="#FFFFFF"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="10dp" >
@@ -15,7 +15,7 @@
         android:paddingLeft="20dp"
         android:paddingRight="20dp">
 
-        <EditText
+<!--        <EditText
             android:id="@+id/et_id"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -25,9 +25,9 @@
             android:inputType="textCapWords"
             android:padding="10dp"
             android:textColor="@color/input_register"
-            android:textColorHint="@color/input_register_hint" />
+            android:textColorHint="@color/input_register_hint" />-->
 
-        <EditText
+<!--        <EditText
             android:id="@+id/et_pass"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
             android:inputType="textEmailAddress"
             android:padding="10dp"
             android:textColor="@color/input_register"
-            android:textColorHint="@color/input_register_hint" />
+            android:textColorHint="@color/input_register_hint" /> -->
 
 <!--        <Button-->
 <!--            android:id="@+id/btn_login"-->

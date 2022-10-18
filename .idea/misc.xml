@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/mediCare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.327" />
+        <entry key="..\:/mediCare/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/mediCare/app/src/main/res/layout/join.xml" value="0.36614583333333334" />
+        <entry key="..\:/mediCare/app/src/main/res/layout/list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/mediCare/app/src/main/res/layout/mediadd.xml" value="0.23731884057971014" />
+        <entry key="..\:/mediCare/app/src/main/res/layout/medilist.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40851449275362317" />
         <entry key="app/src/main/res/layout/join.xml" value="0.1" />
       </map>
